@@ -1,0 +1,17 @@
+body {
+  background-color: #d4b1ec;
+}
+
+.card.login {
+  width: 400px;
+  margin-top: 60px;
+}
+
+.card.login {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
